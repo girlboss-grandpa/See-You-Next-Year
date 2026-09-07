@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/See-You-Next-Year/SeeYouNextYear/Content/VRSpectator/Input/Actions/IA_Interact.uasset",
+				"E:/See-You-Next-Year/SeeYouNextYear/Content/Blueprints/Interact_BPI.uasset",
+				"E:/See-You-Next-Year/SeeYouNextYear/Content/VRSpectator/VRSpectator.uasset",
+				"E:/See-You-Next-Year/SeeYouNextYear/Content/Blueprints/Interact_B.uasset",
+				"E:/See-You-Next-Year/SeeYouNextYear/Content/VRSpectator/Input/IMC_VRSpectator.uasset",
+				"E:/See-You-Next-Year/SeeYouNextYear/Content/Blueprints/Pickup_B.uasset",
 				"H:/Pictures/See-You-Next-Year/SeeYouNextYear/Content/Blueprints/Interact_B.uasset",
 				"C:/Users/K2551662/Documents/GitHub/See-You-Next-Year/SeeYouNextYear/Content/Levels/Test.umap",
 				"C:/Users/K2551662/Documents/GitHub/See-You-Next-Year/SeeYouNextYear/Content/Levels/PlayerZoo_L.umap",
